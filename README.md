@@ -39,3 +39,41 @@ Here are some ideas to get you started:
   视频脚本、内容构思、表达设计等草稿，用于探索“知识如何被表达出来”。
 
 ---
+
+<h1 align="center">👋 Hello, I'm 火柴人讲知识</h1>
+<p align="center">🎓 爱研究数学、物理学、计算机，用火柴人动画讲原理</p>
+<p align="center">💻 技术博主 | 🔬 知识传播者 | 🎥 B站UP主</p>
+
+---
+
+## 🌐 社交平台
+
+<p align="center">
+  <a href="https://blog.csdn.net/2301_76578848?type=lately">
+    <img src="https://img.shields.io/badge/CSDN-2301__76578848-red?style=for-the-badge&logo=csdn" alt="CSDN">
+  </a>
+  <a href="https://space.bilibili.com/2088102765">
+    <img src="https://img.shields.io/badge/B站-火柴人讲知识-pink?style=for-the-badge&logo=bilibili" alt="Bilibili">
+  </a>
+  <a href="https://www.zhihu.com/people/42-29-23-9-75">
+    <img src="https://img.shields.io/badge/知乎-42-29-23--9--75-blue?style=for-the-badge&logo=zhihu" alt="Zhihu">
+  </a>
+  <a href="https://github.com/你的GitHub用户名">
+    <img src="https://img.shields.io/badge/GitHub-主页-black?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+</p>
+
+---
+
+## 📈 访客统计
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=你的GitHub用户名&label=Visitors&color=blue&style=flat-square" alt="Visitor Badge"/>
+</p>
+
+---
+
+## 📚 最新文章（来自CSDN）
+
+> 👉 _暂时 GitHub 无法直接获取 CSDN 博文列表_  
+> 👉 你可以手动更新最近文章，或使用 RSS 转换服务
