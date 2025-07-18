@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # 👋 Welcome to My Knowledge Base
 
 <h1 align="center">👋 Charles Wesley（范清远）</h1>
-<p align="center">🎓 爱研究数学、物理学、计算机，喜欢用推理的方式来做视频</p>
+<p align="center">🎓 一个喜欢探索，保持好奇的人</p>
 <p align="center">💻 一个学习的人 | 🔬 喜欢写点自己的看法的人 | 🎥 做点视频分享分享感受的人 </p>
 
 ---
